@@ -25,6 +25,6 @@ WHEN user refresh/reloads page THEN the saved events persists
 ![alt text](assets/images/image2.png)
 
 
-github URL: https://github.com/Sivaparam/Javascript-Quiz
+github URL: https://github.com/Sivaparam/work-day-scheduler
 
-Live URL: https://sivaparam.github.io/Javascript-Quiz/
+Live URL: https://sivaparam.github.io/work-day-scheduler/
